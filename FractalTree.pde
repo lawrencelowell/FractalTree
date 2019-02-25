@@ -2,7 +2,6 @@
 public void setup()
 
 {
-  System.out.println((float)Math.cos(PI/2));
   size(600,600);
      LINE(9,300,600,150,5,PI/2);
  
